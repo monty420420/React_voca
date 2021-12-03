@@ -10,6 +10,8 @@ function App() {
       <Welcome />
       <World />
       <Hello />
+      <Hello />
+      <Hello />
 
       
       <div className={styles.box}>App</div>
