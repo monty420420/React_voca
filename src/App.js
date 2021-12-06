@@ -9,9 +9,9 @@ function App() {
     <div className="App">
       <Welcome />
       <World />
-      <Hello />
-      <Hello />
-      <Hello />
+      <Hello age={10} />
+      <Hello age={20} />
+      <Hello age={310} />
 
       
       <div className={styles.box}>App</div>
